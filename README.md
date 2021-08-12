@@ -6,7 +6,7 @@ to check the real result just click [here](https://simple-pokedex-site.netlify.a
 
 If you wanna create a pokedex too just follow the [Link](https://pokeapi.co)
 
-# Design
+# Design 🖥️
 
 This was a simple design in future i will add a search bar to find the pokemons automatically.
 
